@@ -29,3 +29,4 @@
 
 - React
 - Tailwind.css
+- TypeScript
