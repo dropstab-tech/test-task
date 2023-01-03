@@ -11,7 +11,7 @@
 
 Для разработки можно использовать API cryptocompare.com (ключ апи бесплатный):
 - список монет - https://min-api.cryptocompare.com/documentation?key=Blockchain&cat=blockchainListOfCoins
-- данные обменов - https://min-api.cryptocompare.com/documentation?key=Historical&cat=dataExchangeHistoHour
+- данные обменов - https://min-api.cryptocompare.com/documentation?key=Historical&cat=dataExchangeHistoday
 
 **Требования**:
 
